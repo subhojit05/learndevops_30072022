@@ -1,3 +1,8 @@
+
 This is a sample file on github
 edited from github and git
 adding new line from github
+This is a sample file on git
+edited from github and git
+I am learning git
+
