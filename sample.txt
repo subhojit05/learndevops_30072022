@@ -1,3 +1,2 @@
-This is a sample file on github
+this is a sample file
 edited from github and git
-adding new line from github
